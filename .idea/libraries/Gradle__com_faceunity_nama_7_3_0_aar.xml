@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.faceunity:nama:7.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/00209513cd2ab6439278a4da89136554/transformed/jetified-nama-7.3.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/00209513cd2ab6439278a4da89136554/transformed/jetified-nama-7.3.0/jars/libs/nama.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/00209513cd2ab6439278a4da89136554/transformed/jetified-nama-7.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/00209513cd2ab6439278a4da89136554/transformed/jetified-nama-7.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

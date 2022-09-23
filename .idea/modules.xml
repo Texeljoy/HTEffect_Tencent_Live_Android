@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HTEffect_Tencent_Live_Android.iml" filepath="$PROJECT_DIR$/.idea/modules/HTEffect_Tencent_Live_Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Advanced/HTEffect_Tencent_Live_Android.Advanced.iml" filepath="$PROJECT_DIR$/.idea/modules/Advanced/HTEffect_Tencent_Live_Android.Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Advanced/CustomVideoCapture/HTEffect_Tencent_Live_Android.Advanced.CustomVideoCapture.iml" filepath="$PROJECT_DIR$/.idea/modules/Advanced/CustomVideoCapture/HTEffect_Tencent_Live_Android.Advanced.CustomVideoCapture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Advanced/RTCPushAndPlay/HTEffect_Tencent_Live_Android.Advanced.RTCPushAndPlay.iml" filepath="$PROJECT_DIR$/.idea/modules/Advanced/RTCPushAndPlay/HTEffect_Tencent_Live_Android.Advanced.RTCPushAndPlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Advanced/SwitchRenderView/HTEffect_Tencent_Live_Android.Advanced.SwitchRenderView.iml" filepath="$PROJECT_DIR$/.idea/modules/Advanced/SwitchRenderView/HTEffect_Tencent_Live_Android.Advanced.SwitchRenderView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Advanced/ThirdBeauty/HTEffect_Tencent_Live_Android.Advanced.ThirdBeauty.iml" filepath="$PROJECT_DIR$/.idea/modules/Advanced/ThirdBeauty/HTEffect_Tencent_Live_Android.Advanced.ThirdBeauty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/App/HTEffect_Tencent_Live_Android.App.iml" filepath="$PROJECT_DIR$/.idea/modules/App/HTEffect_Tencent_Live_Android.App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic/HTEffect_Tencent_Live_Android.Basic.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic/HTEffect_Tencent_Live_Android.Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic/LiveLink/HTEffect_Tencent_Live_Android.Basic.LiveLink.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic/LiveLink/HTEffect_Tencent_Live_Android.Basic.LiveLink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic/LivePK/HTEffect_Tencent_Live_Android.Basic.LivePK.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic/LivePK/HTEffect_Tencent_Live_Android.Basic.LivePK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic/LivePlay/HTEffect_Tencent_Live_Android.Basic.LivePlay.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic/LivePlay/HTEffect_Tencent_Live_Android.Basic.LivePlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic/LivePushCamera/HTEffect_Tencent_Live_Android.Basic.LivePushCamera.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic/LivePushCamera/HTEffect_Tencent_Live_Android.Basic.LivePushCamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic/LivePushScreen/HTEffect_Tencent_Live_Android.Basic.LivePushScreen.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic/LivePushScreen/HTEffect_Tencent_Live_Android.Basic.LivePushScreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Common/HTEffect_Tencent_Live_Android.Common.iml" filepath="$PROJECT_DIR$/.idea/modules/Common/HTEffect_Tencent_Live_Android.Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Debug/HTEffect_Tencent_Live_Android.Debug.iml" filepath="$PROJECT_DIR$/.idea/modules/Debug/HTEffect_Tencent_Live_Android.Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/faceunity/HTEffect_Tencent_Live_Android.faceunity.iml" filepath="$PROJECT_DIR$/.idea/modules/faceunity/HTEffect_Tencent_Live_Android.faceunity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/htui/HTEffect_Tencent_Live_Android.htui.iml" filepath="$PROJECT_DIR$/.idea/modules/htui/HTEffect_Tencent_Live_Android.htui.iml" />
+    </modules>
+  </component>
+</project>
