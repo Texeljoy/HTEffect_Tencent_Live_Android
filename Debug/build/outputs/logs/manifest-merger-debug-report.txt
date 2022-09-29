@@ -1,27 +1,27 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml:1:1-6:12
-INJECTED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml:1:1-6:12
-INJECTED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml:1:1-6:12
+ADDED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml:1:1-6:12
 	package
-		ADDED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml:1:11-45
-		INJECTED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
-		INJECTED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml:1:11-45
+		INJECTED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml:1:1-6:12
+		ADDED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml:1:1-6:12
 application
-ADDED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml:4:5-32
+ADDED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml:4:5-32
 uses-sdk
-INJECTED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
-INJECTED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
-INJECTED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
-INJECTED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
-		ADDED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
-		INJECTED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
-		ADDED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
-		INJECTED from C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml

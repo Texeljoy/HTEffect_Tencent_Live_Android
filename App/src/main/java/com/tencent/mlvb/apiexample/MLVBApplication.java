@@ -23,7 +23,7 @@ public class MLVBApplication extends Application {
         TXLiveBase.getInstance().setLicence(instance, GenerateTestUserSig.LICENSEURL, GenerateTestUserSig.LICENSEURLKEY);
 
         //todo --- hteffect start
-        HTEffect.shareInstance().initHTEffect( this, "4958a80c9f5f4486a12025fd16dfc5e6", new InitCallback() {
+        HTEffect.shareInstance().initHTEffect( this, "67f72e4da36542379b2e22fed7e45439", new InitCallback() {
             @Override public void onInitSuccess() {
 
             }

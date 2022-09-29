@@ -4,11 +4,11 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="21"
-6-->C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
+6-->C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
 7        android:targetSdkVersion="26" />
-7-->C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
+7-->C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml
 8
 9    <application />
-9-->C:\AndroidStudioProjects\demo\HT_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml:4:5-32
+9-->C:\AndroidStudioProjects\demo\HTEffect_Tencent_Live_Android\Debug\src\main\AndroidManifest.xml:4:5-32
 10
 11</manifest>

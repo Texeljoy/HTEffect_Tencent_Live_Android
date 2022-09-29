@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: C./AndroidStudioProjects/demo/HTEffect_Tencent_Live_Android/htui/libs/HTEffect.aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bc98e1c2f9b354e40aa2401fdef88d83/transformed/jetified-HTEffect/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bc98e1c2f9b354e40aa2401fdef88d83/transformed/jetified-HTEffect/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bc98e1c2f9b354e40aa2401fdef88d83/transformed/jetified-HTEffect/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f47d99a1601fa02ee8e9118c13810809/transformed/jetified-HTEffect/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f47d99a1601fa02ee8e9118c13810809/transformed/jetified-HTEffect/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f47d99a1601fa02ee8e9118c13810809/transformed/jetified-HTEffect/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

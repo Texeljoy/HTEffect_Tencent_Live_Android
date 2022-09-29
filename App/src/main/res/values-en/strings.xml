@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HTEffect</string>
+    <string name="app_name">MLVB-API-Example</string>
     <string name="app_main_mlvb_title">Tencent Cloud MLVB API Example</string>
     <string name="app_basic_function">Basic Features</string>
     <string name="app_camera_push">Publishing from Camera</string>

@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/HTEffect_Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/htui" vcs="Git" />
   </component>
 </project>
