@@ -178,7 +178,7 @@ public class LivePKAnchorActivity extends MLVBBaseActivity implements View.OnCli
                 }
             });
         }
-        int result = mLivePlayer.startPlay(playURL);
+        int result = mLivePlayer.startLivePlay(playURL);
         Log.d(TAG, "startPlay : " + result);
     }
 

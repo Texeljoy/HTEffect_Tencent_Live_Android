@@ -194,7 +194,7 @@ public class LiveLinkAnchorActivity extends MLVBBaseActivity {
                 }
             });
         }
-        int result = mLivePlayer.startPlay(playURL);
+        int result = mLivePlayer.startLivePlay(playURL);
         Log.d(TAG, "startPlay : " + result);
     }
 

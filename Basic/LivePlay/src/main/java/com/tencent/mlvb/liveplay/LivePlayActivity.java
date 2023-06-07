@@ -126,7 +126,7 @@ public class LivePlayActivity extends MLVBBaseActivity implements View.OnClickLi
             }
         });
 
-        int result = mLivePlayer.startPlay(playURL);
+        int result = mLivePlayer.startLivePlay(playURL);
         if(result == 0){
             mPlayFlag = true;
         }

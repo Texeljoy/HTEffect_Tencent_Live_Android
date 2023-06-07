@@ -155,7 +155,7 @@ public class LiveLinkAudienceActivity extends MLVBBaseActivity {
             });
         }
 
-        int result = mLivePlayer.startPlay(playURL);
+        int result = mLivePlayer.startLivePlay(playURL);
         Log.d(TAG, "startPlay : " + result);
     }
 
@@ -166,7 +166,7 @@ public class LiveLinkAudienceActivity extends MLVBBaseActivity {
 
         String playURL = URLUtils.generatePlayUrl(mStreamId, mUserId, 0);
         mLivePlayer.setRenderView(mVideoViewAnchor);
-        int result = mLivePlayer.startPlay(playURL);
+        int result = mLivePlayer.startLivePlay(playURL);
         Log.d(TAG, "startPlay : " + result);
 
         // 备注：使用userId作为streamId，尽可能的减少参数；
