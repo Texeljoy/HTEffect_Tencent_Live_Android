@@ -1,5 +1,28 @@
-# MLVB API-Example 
 _中文 | [English](README.en.md)_
+# **HTEffect集成Android教程**
+## **说明**
+- 本文介绍如何快速配置HTEffect模块
+
+<br/>
+
+## **操作步骤**
+### **1. 下载源码**
+依次执行以下命令
+- git clone **当前仓库地址**
+- cd **工程目录**
+- git submodule init && git submodule update
+
+### **2. 配置工程**
+下载完成后，打开工程
+- 将 AndroidManifest.xml 中的 **label** 和 build.gradle 中的 **applicationId** 分别替换为您的**应用名**和**包名**
+- 在项目的Application中将 **YOUR_APP_ID** 替换成您的**AppId**
+- 将htui模块中的**assets**替换为您的**assets**
+- 编译，运行，日志搜索**init-status**可以查看相关日志
+- 具体执行步骤可以全局搜索 **//todo --- HTEffect** 进行查看
+
+<br/>
+
+# MLVB API-Example 
 
 ## 前言
 这个开源示例Demo主要演示了 [移动直播 SDK](https://cloud.tencent.com/document/product/454) 部分API的使用示例，帮助开发者可以更好的理解 移动直播 SDK 的API，从而快速实现一些移动直播场景的基本功能。 

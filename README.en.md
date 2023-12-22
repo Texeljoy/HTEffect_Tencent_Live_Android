@@ -1,5 +1,28 @@
-# MLVB API-Example 
 _[中文](README.md) | English_
+# **HTEffect Integration Android Tutorial**
+## **Instruction**
+- This article introduces how to quickly configure HTEffect module.
+
+<br/>
+
+## **Steps**
+### **1. Download**
+Execute the following commands in sequence
+- git clone **repository address**
+- cd **project directory**
+- git submodule init && git submodule update
+
+### **2. Configure**
+After downloading, open project
+- Replace **label** in AndroidManifest.xml and **applicationId** in build.gradle with **your APP name** and **package name**, respectively
+- Replace **YOUR_APP_ID** with **your AppId** in Application
+- Replace **assets** in htui folder with your **assets**
+- Build, Run, and search **init-status** to see relevant logs
+- The specific execution steps can be viewed by searching **//todo --- HTEffect** globally
+
+<br/>
+
+# MLVB API-Example 
 
 ## Background
 This open-source demo shows how to use some APIs of the [MLVB SDK](https://cloud.tencent.com/document/product/454) to help you better understand the APIs and use them to implement some basic MLVB features.
